@@ -14,9 +14,15 @@ Event plugin &amp; theme
 
 6. Plugin named POSTX is used for creating custom blocks within Gutenberg.
 
+------------------ Access Plugin and Theme -----------------------------
 
+Plugin is located inside theme folder as task plugin. Move it to plugin folder and activate.
 
-/********
+Activate Theme made for this Task.
+
+You're Good to go //-
+
+-------------------- Features -------------------
 
 Some features that can be added.
 
