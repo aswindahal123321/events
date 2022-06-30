@@ -1,0 +1,107 @@
+        /*
+Theme Name: task
+Theme URI: www.task.com	
+Author: Aswin Dahal 
+Author URI: www.aswindahal.com  
+Description: This theme is based on task from OUTSIDE.
+Version: 1.0
+Text Domain: task
+*/
+        
+        .nav {
+            padding: 10px 30px;
+            background-color: #f7e8e3;
+        }
+        
+        .nav ul {
+            padding: 0px 10px;
+        }
+        
+        .uk-navbar-nav>li>a {
+            color: #333;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+        /* Offcanvas Menu*/
+        
+        .offcanvas button {
+            background: none;
+            border: none;
+        }
+        
+        .uk-navbar-dropdown-nav>li>a {
+            color: #0f0f29;
+        }
+        
+        .uk-navbar-dropdown-nav>li>a {
+            color: #0f0f29;
+        }
+        
+        .uk-sticky-below {
+            background-color: rgb(15, 15, 41);
+        }
+        
+        .uk-sticky-below a {
+            color: rgb(255, 255, 255);
+        }
+        
+        li {
+            list-style-type: none;
+        }
+        
+        .uk-button {
+            color: white;
+            font-size: 2.5rem;
+            background-color: transparent;
+            border: 1px solid white;
+            padding: 5px 20px;
+            border-radius: 6px;
+        }
+        
+        .reset-button {
+            background-color: #22222171;
+            padding: 10px;
+            color: white;
+            text-transform: uppercase;
+            border-radius: 3px;
+        }
+        
+        .filter-section {
+            background-color: #222;
+            border-radius: 6px;
+            border: 1px solid #ffffff12;
+        }
+        
+        select {
+            width: 50%;
+            background-color: #0f0f0f;
+            color: white;
+            padding: 5px;
+            border-radius: 3px;
+            width: 120px;
+            font-size: 1rem;
+            font-family: ubuntu;
+        }
+        
+        option {
+            background-color: #0f0f0f;
+            font-family: ubuntu;
+            font-size: 1rem;
+        }
+        
+        input.uk-search-input {
+            background-color: #0f0f0f;
+            border: 1px solid #ffffff75;
+            padding: 5px;
+            border-radius: 3px;
+        }
+        
+        input.search-button.uk-align-center {
+            background-color: #f3c500;
+            padding: 10px;
+            width: 100%;
+            color: black;
+            font-weight: 600;
+            text-transform: uppercase;
+            border-radius: 3px;
+        }
